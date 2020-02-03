@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Leaf It With Me</string>
+    <string name="calculate_button_text">Calculate</string>
+    <string name="percentage_difference_text">percentage difference</string>
+    <string name="percentage_difference_label">Percentage\nDifference</string>
+    <string name="passengers_label">Passengers</string>
+    <string name="percent_label">%</string>
+    <string name="answer_text">answer</string>
+    <string name="error_message">Please enter percentage difference</string>
+    <string name="overall_price_label">Overall Price</string>
+    <string name="passenger_charge_label">Passenger Charge</string>
+
+    <string-array name="passengers">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+</resources>
